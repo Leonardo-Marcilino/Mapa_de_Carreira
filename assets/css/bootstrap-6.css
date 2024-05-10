@@ -11746,7 +11746,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #FFA500;
+  background-color: #facd79;
 }
 
 .resume-wrapper {
@@ -11779,11 +11779,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header a {
-  color: rgba(255, 255, 255, 0.6);
+  color: #FBFBFB;
+  text-decoration: none;
+  transition: 0.8s all;
 }
 
 .resume-header a:hover {
-  color: white;
+  color: #f8c057;
 }
 
 .resume-social {
@@ -11796,8 +11798,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   width: 24px;
   height: 24px;
   border-radius: 0.125rem;
-  background: white;
-  color: #80425F;
+  background: #FBFBFB;
+  color: #826fd8;
 }
 
 .resume-section-title {
@@ -11925,7 +11927,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .footer .fa-heart {
   color: #fb866a;
 }
-
+.PositionFixed{
+  background-color: #000;
+}
 @media (max-width: 767.98px) {
   .resume-wrapper {
     padding-top: 0;
