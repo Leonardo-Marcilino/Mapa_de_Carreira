@@ -11948,4 +11948,5 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   border: 1px solid rgba(var(--bs-black-rgb), var(--bs-bg-opacity));
   background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity));
   width: 150px;
+  transition: 0.8s all;
 }
